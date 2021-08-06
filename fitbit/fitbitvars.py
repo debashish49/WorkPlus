@@ -5,8 +5,8 @@ from datetime import date
 
 # get encoded string values from fitbit's web api developer website
 def getEncodedStr():
-    client_id = "23B78C"        # ADD YOUR OWN CLIENT ID USING FITBIT API INSIDE THE "" specified !
-    client_secret = "088073ff558bab2bf55e011cbb997b82"    # ADD YOUR OWN CLIENT SECRET KEY USING FITBIT API INSIDE THE "" specified !
+    client_id = ""        # ADD YOUR OWN CLIENT ID USING FITBIT API INSIDE THE "" specified !
+    client_secret = ""    # ADD YOUR OWN CLIENT SECRET KEY USING FITBIT API INSIDE THE "" specified !
     #ADD YOUR OWN CLIENT ID in navbar->nav-item->Connect to Fitbit->a in templates/base1.html
     authorizationStr = client_id+":"+client_secret
 
