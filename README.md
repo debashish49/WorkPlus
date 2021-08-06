@@ -9,6 +9,8 @@ Due to Covid-19, remote working has skyrocketed, especially in the IT industry, 
 ## Video Demo
 [WorkPlus: Official Hackathon Demo (YouTube)](https://youtu.be/RHhPdILZCoQ)
 
+![image](https://user-images.githubusercontent.com/69211573/128547266-6ea800a8-90dc-4392-a47b-8e7d0ae23df4.png)(https://youtu.be/RHhPdILZCoQ)
+
 ## Project Features
 
 ### Fitness & Team Bonding Features
@@ -33,6 +35,10 @@ Due to Covid-19, remote working has skyrocketed, especially in the IT industry, 
 - **Add Project & Tasks**: WorkPlus allows you to add current and upcoming projects along with daily and unfinished tasks for everyone to see.
 
 - **Upload Files**: WorkPlus allows you add files to the dashboard for everyone to see.
+
+![image](https://user-images.githubusercontent.com/69211573/128547125-76965507-5090-4b9e-9038-0ce95378cd94.png)
+
+![image](https://user-images.githubusercontent.com/69211573/128546682-8e2449cd-9ca9-4e9e-ad8d-bf1d55e571c5.png)
 
 ## How To Run Our Project:
 
@@ -101,3 +107,4 @@ Aditya Sundar
 ## License & Code Re-Use
 The code for this project is released under the [GPL-3.0 License](./LICENSE). We ask that you please include a link back to this GitHub repository.
 	 
+![image](https://user-images.githubusercontent.com/69211573/128547156-c287ff4e-fefb-4bbc-8505-d222b1256a84.png)
