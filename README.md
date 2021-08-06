@@ -45,24 +45,26 @@ Due to Covid-19, remote working has skyrocketed, especially in the IT industry, 
 
 1. Clone the entire repository.
 
-3. Open the Terminal on your Mac (Command Prompt on Windows) and run the following lines of code:-
-
-2. [Register a fitbit app](https://dev.fitbit.com/apps/new) with the following details:
+2. Register a FitBit application at [https://dev.fitbit.com/login](https://dev.fitbit.com/apps/new) with the following details:
 
     **OAuth 2.0 Application Type:** Server
     
     **Redirect URL:** http://localhost:8000/fitbit
     
     **Default Access Type:** Read-Only	
+    
+    _**The other required fields are irrelevant to the process so please fill them in freely.**_
         
-    Add your newly created application's **OAuth 2.0 Client ID** and **Client Secret** in [fitbit/fitbitvars.py](https://github.com/athu1248/WorkPlus/blob/8b3c05ee1ab7546e715e68f055126e4bfdea4f4b/fitbit/fitbitvars.py#L8-L9) and [templates/base1.html](https://github.com/athu1248/WorkPlus/blob/8b3c05ee1ab7546e715e68f055126e4bfdea4f4b/templates/base1.html#L83-L88) where specified.
+3. Add your registered application's **OAuth 2.0 Client ID** and **Client Secret** in [fitbit/fitbitvars.py](https://github.com/athu1248/WorkPlus/blob/8b3c05ee1ab7546e715e68f055126e4bfdea4f4b/fitbit/fitbitvars.py#L8-L9) where specified. **(Line 8 & 9)**
+    
+   Add your **OAuth 2.0 Client ID** to [templates/base1.html](https://github.com/athu1248/WorkPlus/blob/8b3c05ee1ab7546e715e68f055126e4bfdea4f4b/templates/base1.html#L83-L88) right after _client_id=_ in the href attribute. **(Line 88)**
 	
-3. Open the Terminal on your Mac (Command Prompt on Windows) and run the following lines of code:-
+4. Open your Terminal (Mac) and run the following lines of code:-
 
 
 	Use appropriate command to navigate into the project directory: 
  
-		cd WorkPlus	 #make sure you are in the right folder to begin with 	
+		cd WorkPlus	                #make sure you are in the right folder to begin with 	
 
 
 	Activate a virtual environment (optional): 
