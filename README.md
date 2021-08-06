@@ -9,8 +9,6 @@ Due to Covid-19, remote working has skyrocketed, especially in the IT industry, 
 ## Video Demo
 [WorkPlus: Official Hackathon Demo (YouTube)](https://youtu.be/RHhPdILZCoQ)
 
-![image](https://user-images.githubusercontent.com/69211573/128547266-6ea800a8-90dc-4392-a47b-8e7d0ae23df4.png)(https://youtu.be/RHhPdILZCoQ)
-
 [![name](https://user-images.githubusercontent.com/69211573/128547266-6ea800a8-90dc-4392-a47b-8e7d0ae23df4.png)](https://youtu.be/RHhPdILZCoQ)
 
 ## Project Features
@@ -95,9 +93,9 @@ As stated in our sources above, our project uses Fitbit API to retrieve the user
 - JavaScript 
 
 ## Group Members
-Debashish Sahoo <br>
-[Atharva Kulkarni](https://www.linkedin.com/in/atharva-m-kulkarni/)  
-[Darshan Shivakumar](https://www.linkedin.com/in/darshan-shivakumar-32289919b/)   
+[Debashish Sahoo](https://github.com/debashish49) 
+Atharva Kulkarni <br>
+Darshan Shivakumar <br>
 Aditya Sundar  
 
 ## Official Sources
