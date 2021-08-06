@@ -3,15 +3,6 @@ _**Won 1st Place at the Japan Inter-School Hackathon 2021**_
 
 WorkPlus is a collaborative platform designed for workplace communication that simultaneously promotes a healthy and fruitful lifestyle for all the employees. Not only does it allow you to share tasks and files with your teammates and communicate with them through an interactive chat window, WorkPlus also enables you to track your personal and team fitness levels and engage in fun, rewarding fitness and trivia challenges, making “work from home” a more enjoyable & productive experience!
 
-## Group Members
-Debashish Sahoo <br>
-[Atharva Kulkarni](https://www.linkedin.com/in/atharva-m-kulkarni/)  
-[Darshan Shivakumar](https://www.linkedin.com/in/darshan-shivakumar-32289919b/)   
-Aditya Sundar  
-
-## Video Demo
-[WorkPlus: Official Hackathon Demo (YouTube)](https://youtu.be/RHhPdILZCoQ)
-
 ## Project Incentive
 Due to Covid-19, remote working has skyrocketed, especially in the IT industry, leading to an increase in work hours. As a result, fitness, mental health and productivity have taken a massive toll, so our project will aim to solve these underlying issues by building an application that promotes a healthy mode of living in the current working environment.
 
@@ -40,13 +31,15 @@ Due to Covid-19, remote working has skyrocketed, especially in the IT industry, 
 
 - **Upload Files**: WorkPlus allows you add files to the dashboard for everyone to see.
 
+## Video Demo
+[WorkPlus: Official Hackathon Demo (YouTube)](https://youtu.be/RHhPdILZCoQ)
 
 ## Languages Used:
  
 - Python (Django)  	   
 - HTML    
 - CSS     
-- JavaScript  
+- JavaScript 
 
 ## How To Run Our Project:
 
@@ -69,10 +62,10 @@ Due to Covid-19, remote working has skyrocketed, especially in the IT industry, 
 
 	Use appropriate command to navigate into the project directory: 
  
-		cd WorkPlus		#make sure you are in the right folder to begin with
+		cd WorkPlus	 #make sure you are in the right folder to begin with 	
 
 
-	Activate a virtual environment (Optional): 
+	Activate a virtual environment (optional): 
 
 		virtualenv env  
                      
@@ -88,15 +81,21 @@ Due to Covid-19, remote working has skyrocketed, especially in the IT industry, 
 
 		python3 manage.py runserver   
 
-## License & Code Re-Use
-The code for this project is released under the [GPL-3.0 License](./LICENSE). We ask that you please include a link back to this GitHub repository.
+## Why You May Be Unable To Run Our Project?
+As stated in our sources above, our project uses Fitbit API to retrieve the user's daily activity. Doing so prompts us to apply our client_ID and client secret which is unique for every fitbit app. This is used to obtain the access token to activate the API. But since we are not dishing out any money to host the website on a paid server, the project will not work for anyone unless they have their own client_ID and client secret. We are looking forward to publishing our website online in the near future and hopefully store all our files on a designated hosting service.
 
-## Project official sources
+## Group Members
+Debashish Sahoo <br>
+[Atharva Kulkarni](https://www.linkedin.com/in/atharva-m-kulkarni/)  
+[Darshan Shivakumar](https://www.linkedin.com/in/darshan-shivakumar-32289919b/)   
+Aditya Sundar  
+
+## Official Sources
 
 - Fitbit API : https://dev.fitbit.com/build/reference/web-api/
 - Bootstrap : https://getbootstrap.com/
-- Trivia questions : https://pastebin.com/QRGzxxEy
+- Trivia Questions : https://pastebin.com/QRGzxxEy
 
-## Why you may not be able to run our project!
-As stated in our sources above, our project uses Fitbit API to retrieve the user's daily activity. Doing so prompts us to apply our client_ID and client secret which is unique for every fitbit app. This is used to obtain the access token to activate the API. But since we are not dishing out any money to host the website on a paid server, the project will not work for anyone unless they have their own client_ID and client secret. We are looking forward to publishing our website online in the near future and hopefully store all our files on a designated hosting service.
+## License & Code Re-Use
+The code for this project is released under the [GPL-3.0 License](./LICENSE). We ask that you please include a link back to this GitHub repository.
 	 
