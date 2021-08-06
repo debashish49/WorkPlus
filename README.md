@@ -9,7 +9,7 @@ Due to Covid-19, remote working has skyrocketed, especially in the IT industry, 
 ## Video Demo
 [WorkPlus: Official Hackathon Demo (YouTube)](https://youtu.be/RHhPdILZCoQ)
 
-## Project Walkthrough
+## Project Features
 
 ### Fitness & Team Bonding Features
 
