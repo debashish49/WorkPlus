@@ -3,7 +3,7 @@ _**Won 1st Place at the Japan Inter-School Hackathon 2021**_
 
 WorkPlus is a collaborative platform designed for workplace communication that simultaneously promotes a healthy and fruitful lifestyle for all the employees. Not only does it allow you to share tasks and files with your teammates and communicate with them through an interactive chat window, WorkPlus also enables you to track your personal and team fitness levels and engage in fun, rewarding fitness and trivia challenges, making “work from home” a more enjoyable & productive experience!
 
-## Project Incentive
+## Project Objective
 Due to Covid-19, remote working has skyrocketed, especially in the IT industry, leading to an increase in work hours. As a result, fitness, mental health and productivity have taken a massive toll, so our project will aim to solve these underlying issues by building an application that promotes a healthy mode of living in the current working environment.
 
 ## Video Demo
