@@ -1,4 +1,4 @@
-# WorkPlus - Our Hackathon Project
+# WorkPlus - 
 
 ## Fun Group name:
 
