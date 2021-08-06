@@ -11,6 +11,8 @@ Due to Covid-19, remote working has skyrocketed, especially in the IT industry, 
 
 ![image](https://user-images.githubusercontent.com/69211573/128547266-6ea800a8-90dc-4392-a47b-8e7d0ae23df4.png)(https://youtu.be/RHhPdILZCoQ)
 
+[![name](https://user-images.githubusercontent.com/69211573/128547266-6ea800a8-90dc-4392-a47b-8e7d0ae23df4.png)](https://youtu.be/RHhPdILZCoQ)
+
 ## Project Features
 
 ### Fitness & Team Bonding Features
