@@ -6,6 +6,9 @@ WorkPlus is a collaborative platform designed for workplace communication that s
 ## Project Incentive
 Due to Covid-19, remote working has skyrocketed, especially in the IT industry, leading to an increase in work hours. As a result, fitness, mental health and productivity have taken a massive toll, so our project will aim to solve these underlying issues by building an application that promotes a healthy mode of living in the current working environment.
 
+## Video Demo
+[WorkPlus: Official Hackathon Demo (YouTube)](https://youtu.be/RHhPdILZCoQ)
+
 ## Project Walkthrough
 
 ### Fitness & Team Bonding Features
@@ -30,9 +33,6 @@ Due to Covid-19, remote working has skyrocketed, especially in the IT industry, 
 - **Add Project & Tasks**: WorkPlus allows you to add current and upcoming projects along with daily and unfinished tasks for everyone to see.
 
 - **Upload Files**: WorkPlus allows you add files to the dashboard for everyone to see.
-
-## Video Demo
-[WorkPlus: Official Hackathon Demo (YouTube)](https://youtu.be/RHhPdILZCoQ)
 
 ## Languages Used:
  
