@@ -92,7 +92,7 @@ As stated in our sources above, our project uses Fitbit API to retrieve the user
 - JavaScript 
 
 ## Group Members
-[Debashish Sahoo](https://github.com/debashish49) <br>
+[Debashish Sahoo](https://github.com/debashishsahoo) <br>
 Atharva Kulkarni <br>
 Darshan Shivakumar <br>
 Aditya Sundar  
