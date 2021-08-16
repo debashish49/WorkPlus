@@ -88,8 +88,7 @@ As stated in our sources above, our project uses Fitbit API to retrieve the user
 ## Languages Used:
 - Python (Django)  	   
 - HTML    
-- CSS     
-- JavaScript 
+- CSS      
 
 ## Group Members
 [Debashish Sahoo](https://github.com/debashishsahoo) <br>
