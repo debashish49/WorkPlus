@@ -27,6 +27,12 @@ Due to COVID-19, **remote working** has skyrocketed, especially in the IT indust
 
 - **Wellness Reminders**: WorkPlus displays you a carousel of facts, suggestions and reminders to keep you fit physically and mentally.
 
+![image](https://user-images.githubusercontent.com/69211573/135580648-db11c73e-db72-4bed-90c6-06908345dae0.png)
+
+![image](https://user-images.githubusercontent.com/69211573/135580954-ec5ecef2-d01e-41ad-9dad-e1ae23cbbbc4.png)
+
+![image](https://user-images.githubusercontent.com/69211573/128546682-8e2449cd-9ca9-4e9e-ad8d-bf1d55e571c5.png)
+
 
 ### Workplace Features
 
@@ -36,9 +42,10 @@ Due to COVID-19, **remote working** has skyrocketed, especially in the IT indust
 
 - **Upload Files**: WorkPlus allows you add files to the dashboard for everyone to see.
 
+![image](https://user-images.githubusercontent.com/69211573/135580901-78fefda9-bf53-4cb1-beeb-1cf835ce03e1.png)
+
 ![image](https://user-images.githubusercontent.com/69211573/128547125-76965507-5090-4b9e-9038-0ce95378cd94.png)
 
-![image](https://user-images.githubusercontent.com/69211573/128546682-8e2449cd-9ca9-4e9e-ad8d-bf1d55e571c5.png)
 
 ## How To Run Our Project:
 
@@ -102,7 +109,7 @@ Aditya Sundar
 - Bootstrap : https://getbootstrap.com/
 - Trivia Questions : https://pastebin.com/QRGzxxEy
 
-## License & Code Re-Use
-The code for this project is released under the [GPL-3.0 License](./LICENSE). We ask that you please include a link back to this GitHub repository.
+## License 
+This project is licensed under the [GPL-3.0 License](./LICENSE). Please include a link to this GitHub repository.
 	 
 ![image](https://user-images.githubusercontent.com/69211573/128547156-c287ff4e-fefb-4bbc-8505-d222b1256a84.png)
