@@ -1,5 +1,5 @@
 # WorkPlus
-_**🏆 Won 1st Place at the [Japan Inter-School Hackathon 2021](https://www.youthwhocode.org/japan-inter-school-hackathon-2021/) 🏆**_
+_**🏆 Won 1st Place at the [Japan Inter-School Hackathon 2021](https://www.worldcodingclub.org/japan-inter-school-hackathon-2021/) 🏆**_
 
 WorkPlus is a collaborative platform designed for workplace communication that simultaneously promotes a healthy and fruitful lifestyle for all the employees. Not only does it allow you to share tasks and files with your teammates and communicate with them through an interactive chat window, WorkPlus also enables you to track your personal and team fitness levels and engage in fun, rewarding fitness and trivia challenges, making “work from home” a more enjoyable & productive experience!
 
