@@ -110,6 +110,6 @@ Aditya Sundar
 - Trivia Questions : https://pastebin.com/QRGzxxEy
 
 ## License 
-This project is licensed under the [GPL-3.0 License](./LICENSE). Please include a link to this GitHub repository.
+This project is licensed under the [GPL-3.0 License](./LICENSE). Please include a link to this GitHub repository!
 	 
 ![image](https://user-images.githubusercontent.com/69211573/128547156-c287ff4e-fefb-4bbc-8505-d222b1256a84.png)
