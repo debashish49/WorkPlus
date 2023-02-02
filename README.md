@@ -101,7 +101,7 @@ As stated in our sources above, our project uses Fitbit API to retrieve the user
 [Debashish Sahoo](https://github.com/debashishsahoo) <br>
 Atharva Kulkarni <br>
 Darshan Shivakumar <br>
-Aditya Sundar  
+[Aditya Sundar](https://github.com/adityasundar15)
 
 ## Official Sources
 
