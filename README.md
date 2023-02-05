@@ -99,7 +99,7 @@ As stated in our sources above, our project uses Fitbit API to retrieve the user
 
 ## Group Members
 [Debashish Sahoo](https://github.com/debashishsahoo) <br>
-Atharva Kulkarni <br>
+[Atharva Kulkarni](https://github.com/athu1248) <br>
 Darshan Shivakumar <br>
 [Aditya Sundar](https://github.com/adityasundar15)
 
